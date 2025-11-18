@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kendrin-s-corner/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/kendrin-s-corner/","tags":["gardenEntry"],"noteIcon":"","created":"2025-11-14T20:02:24.000-05:00","updated":"2025-11-18T00:28:04.260-05:00"}
 ---
 
 ## Planting a Digital Garden
@@ -20,7 +20,6 @@ But recent years have seen a resurgence of what the (so-called) kids these days 
 ### What's Here
 
 Nothing yet. Give me time.
-
 
 
 [^1]: See https://en.wikipedia.org/wiki/IndieWeb for a brief explanation. The movement itself has actually been around for a couple of decades, though, personally, I think it gained particular popularity during COVID, when we all suddenly had a surplus of free time and nothing but the internet to entertain us. But don’t quote me on that.
