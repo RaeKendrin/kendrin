@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kendrin-s-corner/","tags":["gardenEntry"],"noteIcon":"","created":"2025-11-14T20:02:24.000-05:00","updated":"2025-11-18T00:28:04.260-05:00"}
+{"dg-publish":true,"permalink":"/kendrin-s-corner/","tags":["gardenEntry"],"noteIcon":"","created":"2026-04-18T10:22:11.623-04:00","updated":"2025-11-18T00:28:04.000-05:00","dg-note-properties":{"created":"2025-11-14T18:23","updated":"2025-11-18T00:28","sticker":"lucide//home","aliases":["home"],"page_title":"Kendrin's Garden"}}
 ---
 
 ## Planting a Digital Garden
