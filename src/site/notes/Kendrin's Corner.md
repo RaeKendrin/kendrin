@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kendrin-s-corner/","tags":["gardenEntry"],"noteIcon":"","created":"2026-04-18T10:22:11.623-04:00","updated":"2026-07-17T15:33:54.376-04:00","dg-note-properties":{"created":"2025-11-14T18:23","updated":"2026-07-17T15:14","sticker":"lucide//home","aliases":["home"],"page_title":"Kendrin's Garden"}}
+{"dg-publish":true,"permalink":"/kendrin-s-corner/","tags":["gardenEntry"],"noteIcon":"","created":"2026-04-18T10:22:11.623-04:00","updated":"2026-07-17T15:34:50.992-04:00","dg-note-properties":{"created":"2025-11-14T18:23","updated":"2026-07-17T15:14","sticker":"lucide//home","aliases":["home"],"page_title":"Kendrin's Garden"}}
 ---
 
 ## Planting a Digital Garden
@@ -19,7 +19,7 @@ But recent years have seen a resurgence of what the (so-called) kids these days 
 ***
 ### What's Here
 
-My (short) reaction to [a neat older Gen-Xer with a penchant for telling it like it is. Thoughtfully.](thoughts/2026-06-07-i-like-seeing-older-women-succeed)
+My (short) reaction to [a neat older Gen-Xer with a penchant for telling it like it is—thoughtfully.](thoughts/2026-06-07-i-like-seeing-older-women-succeed)
 My first little rant *[About Em-Dashes](thoughts/2026-06-08-about-em-dashes)*.
 
 
