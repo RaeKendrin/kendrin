@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/2026-06-08-about-em-dashes/","noteIcon":"","created":"2026-06-08T10:15:29.696-04:00","updated":"2026-07-17T14:53:16.408-04:00","dg-note-properties":{"created":"2026-06-08T10:15","updated":"2026-07-17T14:00","page_title":"2026-06-08 About Em-Dashes"}}
+{"dg-publish":true,"permalink":"/thoughts/2026-06-08-about-em-dashes/","noteIcon":"","created":"2026-06-08T10:15:29.696-04:00","updated":"2026-07-17T15:05:54.112-04:00","dg-note-properties":{"created":"2026-06-08T10:15","updated":"2026-07-17T15:05","page_title":"2026-06-08 About Em-Dashes","sticker":"lucide//flower-2"}}
 ---
 
-# A Rant About Em-Dashes and (by extension) AI
+## A Rant About Em-Dashes and (by extension) AI
 
 I *like* em-dashes.
 
