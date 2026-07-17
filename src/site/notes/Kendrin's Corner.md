@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kendrin-s-corner/","tags":["gardenEntry"],"noteIcon":"","created":"2026-04-18T10:22:11.623-04:00","updated":"2026-07-17T15:13:47.556-04:00","dg-note-properties":{"created":"2025-11-14T18:23","updated":"2026-07-17T15:00","sticker":"lucide//home","aliases":["home"],"page_title":"Kendrin's Garden"}}
+{"dg-publish":true,"permalink":"/kendrin-s-corner/","tags":["gardenEntry"],"noteIcon":"","created":"2026-04-18T10:22:11.623-04:00","updated":"2026-07-17T15:14:59.936-04:00","dg-note-properties":{"created":"2025-11-14T18:23","updated":"2026-07-17T15:00","sticker":"lucide//home","aliases":["home"],"page_title":"Kendrin's Garden"}}
 ---
 
 ## Planting a Digital Garden
@@ -19,7 +19,7 @@ But recent years have seen a resurgence of what the (so-called) kids these days 
 ***
 ### What's Here
 
-My first little rant: *[2026-06-08 About Em-Dashes](2026-06-08 About Em-Dashes.md)*.
+My first little rant: *[2026-06-08 About Em-Dashes](thoughts/2026-06-08-about-em-dashes)*.
 
 
 [^1]: See https://en.wikipedia.org/wiki/IndieWeb for a brief explanation. The movement itself has actually been around for a couple of decades, though, personally, I think it gained particular popularity during COVID, when we all suddenly had a surplus of free time and nothing but the internet to entertain us. But don’t quote me on that.
