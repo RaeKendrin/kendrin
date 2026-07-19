@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/2026-06-08-about-em-dashes/","noteIcon":"","created":"2026-06-08T10:15:29.696-04:00","updated":"2026-07-17T15:05:54.112-04:00","dg-note-properties":{"created":"2026-06-08T10:15","updated":"2026-07-17T15:05","page_title":"2026-06-08 About Em-Dashes","sticker":"lucide//flower-2"}}
+{"dg-publish":true,"permalink":"/thoughts/2026-06-08-about-em-dashes/","noteIcon":"","created":"2026-06-08T10:15:29.696-04:00","updated":"2026-07-18T20:06:55.885-04:00","dg-note-properties":{"created":"2026-06-08T10:15","updated":"2026-07-18T20:06","page_title":"2026-06-08 About Em-Dashes","sticker":"lucide//flower-2"}}
 ---
 
 ## A Rant About Em-Dashes and (by extension) AI
@@ -48,6 +48,10 @@ I choose every em-dash I add to what I write. I decide every metaphor, simile, a
 
 So, thank god for that.
 
+***
+I'm not the only one that feels this way:
+
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/tze93ItrA9k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 [^1]: Podcast Interview: [Brave New Bookshelf Episode 33 – The Rise of AI in Publishing with Jason Hamilton](https://bravenewbookshelf.com/episode-33/).
 [^2]: Video: [The Nerdy Novelist — I Asked Contest Judges About AI Writing (surprising)](https://youtu.be/1JSDcDGdsnM?t=124)] (timestamp: 2:04).
